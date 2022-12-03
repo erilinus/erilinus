@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently looking for work<br>🌱 Improving my skills as a developer<br>🤔 Teach me something about automation<br>💬 Ask me about design systems<br>📮 Reach me at linkedin.com/in/linusje<br>🧑‍💻 See my projects at linuseriksson.com<br>🐛 When life gives you a bug, make it a feature<br>
+🔭 I'm currently looking for work<br>🌱 Improving my skills as a developer<br>🤔 Teach me something about automation<br>💬 Ask me about design systems<br>📮 Reach me at <a href="www.linkedin.com/in/linusje">Linkedin</a><br>🧑‍💻 See my projects in <a href="www.linuseriksson.com">my portfolio</a><br>🐛 When life gives you a bug, make it a feature<br>
 
 
 # 💻 Tech Stack:

@@ -1,6 +1,4 @@
-# 💫 About Me:
-Curious, and creative front-end developer passionate about design systems and visual design.<br>
-🔭 I'm currently looking for work<br>🌱 Improving my skills as a developer<br>🤔 Teach me something about automation<br>💬 Ask me about design systems<br>📮 Find me at [Linkedin](https://www.linkedin.com/in/linusje)<br>🧑‍💻 See more projects in my [portfolio](https://www.linuseriksson.com/)<br>🐛 When life gives you a bug, make it a feature<br>
+📮 Find me at [Linkedin](https://www.linkedin.com/in/linusje)<br>🧑‍💻 See more projects in my [portfolio](https://www.linuseriksson.com/)
 
 
 # 💻 Tech Stack:
